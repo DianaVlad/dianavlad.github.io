@@ -85,7 +85,6 @@ a {
 }
 
 .rightcontent {
-  overflow: scroll;
   padding: 120px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
