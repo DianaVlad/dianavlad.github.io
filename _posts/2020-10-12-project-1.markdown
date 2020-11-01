@@ -5,6 +5,7 @@ date: 2020-10-12
 img: first_milestone.png
 alt: image-alt
 project-date: October 2020
+title: Milestone 1
 description:  
 ---
 ### Problem description
