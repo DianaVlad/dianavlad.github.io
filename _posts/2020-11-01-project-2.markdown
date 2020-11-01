@@ -5,5 +5,12 @@ date: 2020-11-01
 img: second_milestone.png
 alt: image-alt
 project-date: November 2020
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: >-
+###Identifying the problem
+
+One of the most important decisions in the life of a highschool student is to choose the right university. And yet, this choice is often made on the basis of erroneous information and without having any idea of ​​the true dynamics of the campus and of the faculty. At the end of the 11th grade, students are visited by countless faculties/universities, who are using extravagant materials in their presentations to impress teenagers. How can they differentiate between what is good and what is bad when all universities promise the same end product of a quality career-oriented education.
+
+In addition to these sometimes pompous presentations, students try to ask their acquaintances and friends about what they know about the university they are interested in. However, it is not enough to talk to 1 or 2 acquaintances in order to make a choice that will influence your entire future. Sometimes, the highschool student tries to search information online, and ends up going through a lot of forums and sites, in hope of finding relevant information for him. And even if this information is eventually obtained, the whole process remains stressful and difficult.
+
+
 ---
