@@ -22,21 +22,19 @@ High school students and persons who want to start a bachelor’s degree program
 <a href="https://www.zonkafeedback.com/student-classroom-feedback-software" rel="zonka"> <img src="zonka-logo15.webp" alt="drawing" width="170" height="90"/> </a> | <a href="http://www.whatuni.com" rel="whotuni"> <img src="logo_print.png" alt="drawing" width="120" height="120"/> </a> | <a href="http://www.studentcrowd.com" rel="studentcrowd"> <img src="studentcrowd-300x150.jpg" alt="drawing" width="200" height="120"/> </a> | <a href="https://www.edumatch.ro/" rel="ctss"> <img src="Ce-trebuie-sa-stii.png" alt="drawing" width="180" height="120"/> </a>
 
 ### Advantage over the competition
- - Only verified users can leave reviews about a certain university
- - We target public from Romania
+ 1. Only verified users can leave reviews about a certain university
+ 2. We target public from Romania
 
 ### Key metrics
 
- - Number of applications downloads
- - Total number of user reviews (inside the application)
- - Number of satisfied users (the ones that received useful information by using this app)
+ 1. Number of applications downloads
+ 2. Total number of user reviews (inside the application)
+ 3. Number of satisfied users (the ones that received useful information by using this app)
 
 ### Cost strucure
 
- - Fixed costs
-     Hardware, Bank Fees, Software (Google Play Store, Dev Account, Subscriptions ...)
- - Variable costs
-     Marketing / Advertising
+1. Fixed costs: Hardware, Bank Fees, Software (Google Play Store, Dev Account, Subscriptions ...)
+2. Variable costs: Marketing / Advertising
 
 ### Revenue streams
 

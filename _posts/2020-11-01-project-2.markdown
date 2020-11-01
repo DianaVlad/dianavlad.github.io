@@ -45,16 +45,16 @@ You can see the form at this link [form](https://docs.google.com/forms/d/e/1FAIp
 ### Conclusions
 #### University students section
 
-![question1](q1.png)
+![question1](img/q1.png)
 From the responses we have received only 57.4% of the students are satisfied with their university. This means that over 40% of them consider there could have been better choices. Our application can be very useful for increasing the satisfied portion of the students.
 
-![question2](q2.png)
+![question2](img/q2.png)
 From the actual students more than 70% declared that they have chosen to gather information from talking to parents or friends. Also over 35% used online forums for this purpose. Therefore we can conclude that there will certainly be a lot of future students that will use our platform in order to research their university. 
 
-![question3](q3.png)
+![question3](img/q3.png)
 More than 77% of the respondents have declared that the information they have collected was accurate and helpful. Taking into consideration the fact that most of them have collected it from friends and family, we can understand that the content on our platform is going to be at least this useful.
 
-![question4](q4.png)
+![question4](img/q4.png)
 Because more than 60% of the respondents declared that they were not completely aware of the curriculum of the faculty before attending we consider this is an area where our platform can provide a lot of improvement. The actual students can communicate to the highschool pupils the most recent and relevant information regarding the curriculum.
 
 ```What else would you have wanted to know about universities/faculties and couldn't?```
@@ -69,17 +69,17 @@ They complained that most of the information found was vague and theoretical.
 
 Most of the respondents have answered that they have spent a lot of time (more than a month) researching how university life is. This implies that it is a very important aspect for them. By using our application they can decrease the amount of time needed for this part of their research.
 
-![question5](q5.png)
+![question5](img/q5.png)
 ```If the answer is no, what is the reason for not providing feedback? If the answer is yes, how did you provide feedback?```
 
 Students who answered yes to this question were able to provide feedback through online forms, in social applications or even face to face. Those who responded negatively either did not find someone willing to listen or did not know where to send feedback. We can say that our solution would satisfy both sides.
 
 #### High school students section
 
-![question6](q6.png)
+![question6](img/q6.png)
 Only 31% from the highschool students know exactly what university they want to follow, the rest of 69% need more information about the universities to know if it suits them.
 
-![question7](q7.png)
+![question7](img/q7.png)
 
 Most of the highschool students are talking with parents and friends and searching on online forums to find more information in addition to those on the university website. Our application can centralize all this information so the highschool students can find it in one place.
 
@@ -87,11 +87,11 @@ Most of the highschool students are talking with parents and friends and searchi
 
 Over 50% of the highschool students didn’t find all the information they were looking for, in particular about the teachers, the admission and the accommodation.
 
-![question9](q9.png)
+![question9](img/q9.png)
 
 The information on the university sites is not enough for the students to really know about the curriculum, therefore 63% of the highschool students don’t know what they are exactly doing in classes.
 
-![question10](q10.png)
+![question10](img/q10.png)
 
 Over 70% of the highschool students consider that the feedback from the students that are attending a certain university can change their opinion  regarding the university they want to attend and can provide useful information.
 
@@ -108,11 +108,11 @@ Most of the people have no one to talk to about the experience and the life in t
 We are glad that the high school students were open to express their thoughts in our form regarding the problem we identified and to find out that they are also dissatisfied with the same things that we invoked.
 Following the form we resume the following ideas:
 
-* highlighted a predisposition among the high school students to obtain information from "unofficial" sources, such as the experiences of parents, friends or current students, rather than from "official" sources, such as the faculty website;
-* both high school and college students did not find all the information they wanted after their searches;
-* high school students want to spend as much time as they need to choose their faculty well;
-* most of the students interviewed either give feedback on their student experiences or are willing to do so;
-* students who did not provide feedback invoked the lack of people willing to listen and a place to do so.
+1. highlighted a predisposition among the high school students to obtain information from "unofficial" sources, such as the experiences of parents, friends or current students, rather than from "official" sources, such as the faculty website;
+2. both high school and college students did not find all the information they wanted after their searches;
+3. high school students want to spend as much time as they need to choose their faculty well;
+4. most of the students interviewed either give feedback on their student experiences or are willing to do so;
+5. students who did not provide feedback invoked the lack of people willing to listen and a place to do so.
 
 In conclusion, these insights do not affect the solution we proposed, high school students need a centralized platform where they can find information and experiences of other students in the shortest time. Students are willing to share their experiences, so all we have to do is implement the solution. :)
 
