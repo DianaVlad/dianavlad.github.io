@@ -96,7 +96,7 @@ The information on the university sites is not enough for the students to really
 
 Over 70% of the highschool students consider that the feedback from the students that are attending a certain university can change their opinion  regarding the university they want to attend and can provide useful information.
 
-```How much time are you willing to spend on research?```
+```How much time are you willing to spend on research?```<br>
 As with students, high school students are prepared to spend as much time as necessary to make sure they make the right decision for their future.
 
 ```Do you know people who are in college that can talk to you about their experience? Do you feel like their experience is relevant for you?```
@@ -109,11 +109,11 @@ Most of the people have no one to talk to about the experience and the life in t
 We are glad that the high school students were open to express their thoughts in our form regarding the problem we identified and to find out that they are also dissatisfied with the same things that we invoked.
 Following the form we resume the following ideas:
 
-1. highlighted a predisposition among the high school students to obtain information from "unofficial" sources, such as the experiences of parents, friends or current students, rather than from "official" sources, such as the faculty website;
-2. both high school and college students did not find all the information they wanted after their searches;
-3. high school students want to spend as much time as they need to choose their faculty well;
-4. most of the students interviewed either give feedback on their student experiences or are willing to do so;
-5. students who did not provide feedback invoked the lack of people willing to listen and a place to do so.
+1. Highlighted a predisposition among the high school students to obtain information from "unofficial" sources, such as the experiences of parents, friends or current students, rather than from "official" sources, such as the faculty website;
+2. Both high school and college students did not find all the information they wanted after their searches;
+3. High school students want to spend as much time as they need to choose their faculty well;
+4. Most of the students interviewed either give feedback on their student experiences or are willing to do so;
+5. Students who did not provide feedback invoked the lack of people willing to listen and a place to do so.
 
 In conclusion, these insights do not affect the solution we proposed, high school students need a centralized platform where they can find information and experiences of other students in the shortest time. Students are willing to share their experiences, so all we have to do is implement the solution. :)
 
